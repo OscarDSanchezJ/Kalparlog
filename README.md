@@ -1,2 +1,0 @@
-# Kalparlog
-Blog personal

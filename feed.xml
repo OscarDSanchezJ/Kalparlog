@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Kalparlog</title>
+    <link href="https://oscardsanchezj.github.io/Kalparlog/feed.xml" rel="self" />
+    <link href="https://oscardsanchezj.github.io/Kalparlog" />
+    <updated>2021-10-28T15:38:53-04:00</updated>
+    <author>
+        <name>Kalpar</name>
+    </author>
+    <id>https://oscardsanchezj.github.io/Kalparlog</id>
+
+    <entry>
+        <title>¿POR QUE UN BLOG?</title>
+        <author>
+            <name>Kalpar</name>
+        </author>
+        <link href="https://oscardsanchezj.github.io/Kalparlog/por-que-un-blog.html"/>
+        <id>https://oscardsanchezj.github.io/Kalparlog/por-que-un-blog.html</id>
+            <category term="Opinion"/>
+
+        <updated>2021-10-28T15:38:53-04:00</updated>
+            <summary>
+                <![CDATA[
+                     ¿Por que un blog?, no te sale mejor hacerte una cuenta en una red social, discord, twitter o alguna otra red de ese estilo, mi respuesta es genial para captar atencion e interactuar con la gente, pero debes entender que algo que se genera&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>    ¿Por que un blog?, no te sale mejor hacerte una cuenta en una red social, discord, twitter o alguna otra red de ese estilo, mi respuesta es genial para captar atencion e interactuar con la gente, pero debes entender que algo que se genera en un ambito meramente social tiende mas a tendencias del momento, al aqui y ahora, cuando un blog se centra mas en su contenido, mas planificacion y tambien se preserva mejor en el tiempo, imaginate por un segundo si tuvieras que seguir un tutorial de programación en un hilo de twitter, o una galeria de un artista solapada con memes, eso seria con todas las letras una tortura.</p>
+<p align="justify">    Videos en Youtube, mas de lo mismo, pero a peor escala, por que requiere de mas planificacion y mejor hardware, sumado al hecho de que no te entierre el algoritmo al olvido.</p>
+<p align="justify">(Inserte memetica aquí imagen aqui)</p>
+<p align="justify">(Te deseo suerte encontrando ese hilo o imagen después de dar 1000 likes y retweets)</p>
+<p align="justify">    Por que me apetece y es un proyecto personal de introducir a la gente ajena al mundo del desarrollo de videojuego, a pequeños proyectos personales con herramientas poco conocidas y hablar de temas varios relacionados o no, incluso alguna que otra tonteria ajena a la tonica, solo para relajarme.</p>
+<p align="justify">    Siempre necesitamos un poco de magia en nuestras vidas, y que mejor forma que compartiendo tu hobby con otras personas, hay mas de una forma de hacer las cosas he incluso te sorprenderia que</p>
+<p align="justify">    ¡Espero que mi blog te alegre el dia!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
