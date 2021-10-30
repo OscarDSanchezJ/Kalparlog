@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://oscardsanchezj.github.io/Kalparlog/bitsy-el-rpg-maker-minimalista.html",
+            "url": "https://oscardsanchezj.github.io/Kalparlog/bitsy-el-rpg-maker-minimalista.html",
+            "title": "Bitsy el &quot;RPG maker&quot; minimalista",
+            "summary": " ¿Algunas has querido crear tu propio RPG?, pues esta es una pregunta con trampa, por que realmente no buscas es hacer un RPG al uso con los combates y parafernalia que ello conlleva, si no contar una historia interesante de la forma mas amena&hellip;",
+            "content_html": "<p align=\"justify\">    ¿Algunas has querido crear tu propio RPG?, pues esta es una pregunta con trampa, por que realmente no buscas es hacer un RPG al uso con los combates y parafernalia que ello conlleva, si no contar una historia interesante de la forma mas amena posible, y aquí es donde entra la Narrativa, Si te pones a investigar un poco de juegos hechos por usuarios en RPG maker, los juegos normalmente toman varias vertientes, una de ellas y la mas común el Terror, historias mas emocionales como <strong>To the moon</strong>, o incluso juegos mas interpretativos que una historia propia en si misma como lo es <strong>Yumme Nikki</strong>, en muchos de ellos el combate es algo mas que anecdotico en el mejor de los casos y toma protagonismo los puzzle como las aventuras graficas, o en el caso mas tradicional se busca un enfoque menos tradicional de los RPG como <strong>Lisa the Painful</strong>, y esa es la capacidad de ese motor de adaptarse a muchos usuarios de forma amena a sus necesidades dentro de sus limitaciones como motor hecho especificamente para RPGs.</p>\n<p align=\"justify\">    No encontre un símil mas acertado que el RPG maker, para bitsy, piensa en el como un RPG maker, centrado en contar anecdotas o historias de una forma muy minimalista y con encanto propio, muchas veces se necesita menos de lo que uno piensa para contar una gran historia</p>\n<p align=\"justify\">    Una paleta limitada de 3 colores, Sprite, Escenografía, y Fondo</p>\n<p align=\"justify\">   Un editor para los sprites, cual esta regida por la regla de que todo se debe construir 8x8 en un mosaico de pixeles</p>\n<p align=\"justify\">   Un editor de dialogo para los Sprites creados</p>\n<p align=\"justify\">   Gestor de Habitaciones (ROOMS) por los que te desplazas a traves del mundo que vas creando, lo que seria el mapa del mundo de toda la Vida.</p>\n<p align=\"justify\">   Aunque una de sus Mayores Virtudes es el ser un motor hackeable por la comunidad, El cual va desde hacer el editor de sprites un poco mas grande ampliandolo a un 16x16, hasta hacer un juego 3d conservando su estetica minimalista, o algunos mas simples como el hecho de añadir sonido al juego, para amenizar un poco, el silencio sepulcral cual lo caracteriza, todo ello convertido en un ecosistema de herramientas propias de sus usuarios para mejorarlo de alguna forma, o incluso un motor propio inspirado o Basado en Bitsy, cuales añaden muchas caracteristicas.</p>\n<p align=\"justify\"> </p>",
+            "author": {
+                "name": "Kalpar"
+            },
+            "tags": [
+                   "Gamedev"
+            ],
+            "date_published": "2021-10-30T05:05:36-04:00",
+            "date_modified": "2021-10-30T05:08:11-04:00"
+        },
+        {
             "id": "https://oscardsanchezj.github.io/Kalparlog/por-que-un-blog.html",
             "url": "https://oscardsanchezj.github.io/Kalparlog/por-que-un-blog.html",
             "title": "¿POR QUE UN BLOG?",
